@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-11-22T13:49:42.132Z",
+  "totalPhotos": 3,
+  "totalVideos": 2,
+  "profilePhoto": "/assets/profile/profile.webp",
+  "photos": [
+    {
+      "id": "photos-ron-jpg",
+      "baseKey": "photos/ron",
+      "filename": "ron.jpg",
+      "ext": ".jpg",
+      "title": "Ron",
+      "description": "Cinematic production piece created by Shanmukh Veerepalli.",
+      "category": "AI Character & Portrait",
+      "tags": [
+        "AI Character & Portrait",
+        "Visual Art",
+        "Shanmukh AI"
+      ],
+      "type": "photo",
+      "path": "/assets/photos/ron.jpg",
+      "size": 558903,
+      "updatedAt": "2026-11-21T13:12:46.075Z",
+      "aspectRatio": "4/5",
+      "featured": false
+    },
+    {
+      "id": "photos-devil-jpg",
+      "baseKey": "photos/devil",
+      "filename": "devil.jpg",
+      "ext": ".jpg",
+      "title": "Devil",
+      "description": "Cinematic production piece created by Shanmukh Veerepalli.",
+      "category": "AI Character & Portrait",
+      "tags": [
+        "AI Character & Portrait",
+        "Visual Art",
+        "Shanmukh AI"
+      ],
+      "type": "photo",
+      "path": "/assets/photos/devil.jpg",
+      "size": 56160,
+      "updatedAt": "2026-11-21T13:12:02.498Z",
+      "aspectRatio": "4/5",
+      "featured": false
+    },
+    {
+      "id": "photos-red-devil-jpg",
+      "baseKey": "photos/red-devil",
+      "filename": "red-devil.jpg",
+      "ext": ".jpg",
+      "title": "Red Devil",
+      "description": "Cinematic production piece created by Shanmukh Veerepalli.",
+      "category": "AI Character & Portrait",
+      "tags": [
+        "AI Character & Portrait",
+        "Visual Art",
+        "Shanmukh AI"
+      ],
+      "type": "photo",
+      "path": "/assets/photos/red-devil.jpg",
+      "size": 23138,
+      "updatedAt": "2026-11-21T13:11:28.072Z",
+      "aspectRatio": "4/5",
+      "featured": false
+    }
+  ],
+  "videos": [
+    {
+      "id": "videos-video-13-mp4",
+      "baseKey": "videos/video-13",
+      "filename": "video-13.mp4",
+      "ext": ".mp4",
+      "title": "Video 13",
+      "description": "Cinematic production piece created by Shanmukh Veerepalli.",
+      "category": "AI Artwork",
+      "tags": [
+        "AI Artwork",
+        "Video",
+        "Shanmukh AI"
+      ],
+      "type": "video",
+      "path": "/assets/videos/video-13.mp4",
+      "size": 1410695,
+      "updatedAt": "2026-11-15T13:23:25.920Z",
+      "aspectRatio": "16/9",
+      "featured": false,
+      "thumbnail": "/assets/thumbnails/video-13.webp"
+    },
+    {
+      "id": "videos-openart-vfx-final-mp4",
+      "baseKey": "videos/openart-vfx-final",
+      "filename": "openart-vfx-final.mp4",
+      "ext": ".mp4",
+      "title": "Openart Vfx Final",
+      "description": "Cinematic production piece created by Shanmukh Veerepalli.",
+      "category": "3D & VFX",
+      "tags": [
+        "3D & VFX",
+        "Video",
+        "Shanmukh AI"
+      ],
+      "type": "video",
+      "path": "/assets/videos/openart-vfx-final.mp4",
+      "size": 3082479,
+      "updatedAt": "2026-09-03T12:07:33.047Z",
+      "aspectRatio": "16/9",
+      "featured": false,
+      "thumbnail": "/assets/thumbnails/openart-vfx-final.webp"
+    }
+  ],
+  "categories": {
+    "photos": [
+      "AI Character & Portrait"
+    ],
+    "videos": [
+      "AI Artwork",
+      "3D & VFX"
+    ]
+  }
+}
